@@ -11,7 +11,7 @@
 - [ ] Unit tests
 - [ ] Integration tests
 - [ ] Adequate logging
-- [ ] Refactor - Simplify, remove unnecessaary code, consider performance, etc.
+- [ ] Refactor - Simplify, remove unnecessary code, consider performance, etc.
 
 
 ### Pull Request

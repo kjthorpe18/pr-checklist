@@ -7,7 +7,7 @@
 - [ ] Documentation on new or updated functions, methods, classes, etc.
 
 ### Code
-- [ ] Does the code accomplish it's business objective? - Fix bug, implement feature as expected, etc.
+- [ ] Does the code accomplish its business objective? - Fix bug, implement feature as expected, etc.
 - [ ] Does it work? - Has the code been tested?
 - [ ] Unit tests
 - [ ] Integration tests
